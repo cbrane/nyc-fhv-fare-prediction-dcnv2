@@ -2,6 +2,7 @@
 
 This repository captures the **12-hour sprint** during which we cleaned a 745 M-row New York City For-Hire Vehicle (FHV) dataset, engineered features, and trained a Deep & Cross Network v2 (DCNv2) regression model on 50 M rows with a Google Cloud **TPU v5p-16**.  
 The final SavedModel, metrics, and helper scripts are provided so that anyone can reproduce our results on GCP or a local GPU.
+Data captured from this Kaggle dataset: https://www.kaggle.com/datasets/jeffsinsel/nyc-fhvhv-data
 
 ---
 
